@@ -70,7 +70,7 @@
         android:layout_width="346dp"
         android:layout_height="51dp"
         android:layout_marginTop="32dp"
-        android:text="@string/promedio"
+        android:text="@string/pares"
         android:textAllCaps="false"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.492"
